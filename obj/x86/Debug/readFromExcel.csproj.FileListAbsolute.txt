@@ -1,0 +1,16 @@
+c:\users\jvillavicencio\documents\visual studio 2010\Projects\readFromExcel\readFromExcel\bin\Debug\readFromExcel.exe
+c:\users\jvillavicencio\documents\visual studio 2010\Projects\readFromExcel\readFromExcel\bin\Debug\readFromExcel.pdb
+c:\users\jvillavicencio\documents\visual studio 2010\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.csproj.ResolveComReference.cache
+c:\users\jvillavicencio\documents\visual studio 2010\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.Form1.resources
+c:\users\jvillavicencio\documents\visual studio 2010\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.Properties.Resources.resources
+c:\users\jvillavicencio\documents\visual studio 2010\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.csproj.GenerateResource.Cache
+c:\users\jvillavicencio\documents\visual studio 2010\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.exe
+c:\users\jvillavicencio\documents\visual studio 2010\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.pdb
+F:\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.csproj.ResolveComReference.cache
+F:\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.exe
+F:\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.pdb
+F:\Projects\readFromExcel\readFromExcel\bin\Debug\readFromExcel.exe
+F:\Projects\readFromExcel\readFromExcel\bin\Debug\readFromExcel.pdb
+F:\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.Form1.resources
+F:\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.Properties.Resources.resources
+F:\Projects\readFromExcel\readFromExcel\obj\x86\Debug\readFromExcel.csproj.GenerateResource.Cache
